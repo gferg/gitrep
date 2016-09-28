@@ -1,3 +1,6 @@
+<<<<<<< HEAD
 print(Hello World!);
 print(Hello everybody!);
 print(Hello!);
+print("Hello Hello");
+print("Hello in chinese");
